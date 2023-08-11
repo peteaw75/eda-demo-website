@@ -1,0 +1,9 @@
+---
+web:
+  hosts:
+    hlrhel801.idm.lokidev.xyz:
+      ansible_host: 192.168.110.121
+  vars:
+    ansible_connection: ssh
+    ansible_user: hladmindevops01
+    ansible_ssh_pass: Setyourownpassword
