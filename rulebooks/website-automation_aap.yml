@@ -1,5 +1,5 @@
 ---
-- name: Listen for events on a webhook
+- name: Monitor website availability
   hosts: all
   ## Define our source for events
   sources:
